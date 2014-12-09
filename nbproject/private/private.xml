@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/payment/DeleteMonthPay.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/controller/payment/PaymentController.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/classes/ClassManagement.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/classes/AddClass.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/payment/AddPayment.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/datalayer/student/EarlyLeavingDA.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/datalayer/student/ReportDA.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/model/student/Attendance.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/utilities/ComboBoxUtility.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/controller/student/AttendanceController.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/controller/student/EarlyLeaveRecordController.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/exam/Exams.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/exam/Peformance.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/student/SearchStudent.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/login/LoginWindowInterface.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/datalayer/student/ClassDetailsDA.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/exam/Marks.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/payment/ExamPayment.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/report/Attendance.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/utilities/AddRecordException.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/model/student/AttendanceSheet.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/report/Exam.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/utilities/DBImageHandler.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/login/LoginController.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/datalayer/student/AttendanceDA.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/controller/student/StudentDetailController.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/main/MainGUI.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/utilities/DBConnection.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/model/tution/Tution.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/payment/DeleteExamPay.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/attendance/AttendanceManagement.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/model/student/EarlyLeaveRecord.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/datalayer/tution/TutionDA.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/model/payment/MonthlyFeePayment.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/datalayer/exam/MarksDA.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/datalayer/exam/ExamDA.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/datalayer/exam/ReportsDA.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/datalayer/exam/ExamAttendanceDA.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/student/AddStudent.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/student/EditStudent.java</file>
+            <file>file:/C:/Users/Yellow%20Flash/Downloads/CS2062-A04-120149H/CS2062-A04-120149H/Source%20Code%20(NetBeans%20Project)/SASIP3/src/view/attendance/AttendanceSheet.java</file>
+        </group>
+    </open-files>
+</project-private>
