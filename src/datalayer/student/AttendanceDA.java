@@ -95,7 +95,7 @@ public class AttendanceDA {
         CachedRowSetImpl rs = new CachedRowSetImpl();
         con = DBConnection.getConnection();
 
-        String query = "SELECT * FROM attendance WHERE StudentID='" + studentID + "' AND classID='" + classID + "' ORDER BY date";
+        String query = "SELECT * FROM attendance WHERE StudentID='" + studentID + "' AND classID='" + classID + "' ORDER BY date DESC";
         rs.populate(DBHandler.getData(con, query));
         con.close();
         return rs;
