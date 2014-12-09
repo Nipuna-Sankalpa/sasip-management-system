@@ -94,7 +94,7 @@ public class AttendanceController {//act as the controller that handles messages
         String year = classID.substring(0, 4);
         
         if(!hasMissedPrevClass(lastAttendance))
-            return new String[] { "" };
+            return new String[] { "<< Not Applicable >>" };
         
         System.out.println("year in getAvaiClasses: "+year);
         Tution[] classes = null;
