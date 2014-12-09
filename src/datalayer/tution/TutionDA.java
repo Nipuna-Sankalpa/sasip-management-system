@@ -9,6 +9,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
 import model.tution.Tution;
 import utilities.DBConnection;
 import utilities.DBHandler;
@@ -78,5 +79,27 @@ public class TutionDA {
         String query = "Insert into classdetail values('"+studentID+"' , '"+classID+"');";
         int temp = DBHandler.setData(con, query);
         return temp;
+    }
+    
+    public Tution[] searchByClassYear(String input) throws ClassNotFoundException, SQLException {
+        con = DBConnection.getConnection();
+        String query = "SELECT * FROM class WHERE classYear = '" + input + "'";
+        rs = DBHandler.getData(con, query);
+        ArrayList<Tution> list = new ArrayList<Tution>();
+        
+        while(rs.next()){
+            String id = rs.getString(1);
+            String year = rs.getString(2);
+            String cat = rs.getString(3);
+            String day = rs.getString(4);
+            int monthlyFee = rs.getInt(5);
+            
+            Tution tution = new Tution(id, cat, year, day, monthlyFee);
+            list.add(tution);   
+        }
+        
+        con.close();
+        System.out.println("query: "+list.size());
+        return list.toArray(new Tution[0]);
     }
 }
